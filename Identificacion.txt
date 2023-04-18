@@ -5,3 +5,12 @@ Pienso estudiar una carrera de medicina o ingeniero en sistemas, pero no en Univ
 para servicio militar, y quiero estudiar algunas de esas carreras, medicina por que al ser un militar saber medicina y 
 primeros auxilios sera fundamental, y si no se puede medicina entonces ingeniero en sistemas para poder apoyar en servicio
 del gobierno.
+
+HTML:
+Es un lenguaje de marcado utilizado para crear páginas web y aplicaciones web, es el lenguaje principal que
+se utiliza para estructurar y presentar contenido en la web, y se compone de una serie de etiquetas que hacen que le den 
+den significado a la estructura y el contenido de una página web y a la vez cada etiqueta define un elemento específico
+de la página, como un encabezado, un párrafo, una imagen, un enlace, etc. Estas etiquetas se colocan dentro del código
+HTML y se utilizan para marcar o definir el contenido que se va a mostrar en la página y con este programa en otras palabras
+sirve para hacer paginas con interacciones, por ejemplo insertar vinvulos, hacer listas, imagenes, videos, links y mucho
+más cosas, es facil de usar y dar a demostrar un sin fin de creatividad. 
